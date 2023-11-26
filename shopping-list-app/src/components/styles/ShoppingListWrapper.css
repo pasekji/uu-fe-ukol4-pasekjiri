@@ -1,0 +1,17 @@
+.shopping-list-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.archive-toggle-button {
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,7 @@
+.detail-list {
+    list-style-type: none;
+    padding: 0;
+}
+.detail-list li {
+    padding: 8px 0;
+}

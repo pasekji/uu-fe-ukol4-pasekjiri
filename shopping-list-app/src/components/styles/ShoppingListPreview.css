@@ -1,0 +1,22 @@
+.shopping-list-preview {
+    box-sizing: border-box;
+    flex: 0 0 calc(50% - 10px);
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.shopping-list-preview:hover {
+    background-color: #f5f5f5;
+}
+
+.shopping-list-preview h2, .shopping-list-preview p {
+    margin: 0;
+    padding: 0;
+}
+
+.shopping-list-preview button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 0.9em;
+}
